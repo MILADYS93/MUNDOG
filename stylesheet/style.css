@@ -1,0 +1,108 @@
+.estilos{
+    color: white;
+    text-align: center;
+
+}
+.estbody{
+    background-color: rgb(17, 6, 17);
+}
+.iconog{
+    border-radius: 50px;
+}
+.naveg{
+    background-color: rgb(82, 5, 78);
+}
+a:hover{
+    background-color: rgb(218, 153, 212);
+    text-decoration: none;
+}
+.boto{
+    position: relative;
+    background-color: rgb(88, 29, 90);
+    color: rgb(255, 247, 247);
+    border-color: rgb(41, 4, 75);
+    padding: 2px;
+    overflow: hidden;
+    text-decoration:none;
+    left: 520px;
+}
+.defi{
+    position: relative;
+    left: 100px;
+    color: white;
+    width: 500px;
+    text-align:left;
+    margin-top: 80px;
+}
+.img2{
+    position: absolute;
+    left: 700px;
+    top: 650px;
+}
+.container-sub{
+    width:100% ;
+    height:300px ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contner-sub{
+    width:100% ;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contner-sub h2{
+    color: white;
+}
+.contner-sub p{
+    color: white;
+}
+.estils{
+    color: white;
+    text-align: center;
+}
+.prf1{
+    position: relative;
+    text-align: left;
+    width: 500px;
+    color: white;
+    left:80px ;
+}
+.video{
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+.h3{
+    color: white;
+    background-color: rgb(230, 192, 241);
+    text-align:center;
+
+}
+.preguntas{
+    position: relative;
+    left: 50px;
+    color: white;
+    text-align: left;
+    top: 50px;
+}
+.imageness{
+    position: relative;
+    left: 400px;
+    top: 35px;
+}
+.solu1{
+    background-color: rgb(216, 187, 241);
+    
+}
+footer{
+    text-align: center;
+    background-color: rgb(82, 5, 78);
+    color: rgb(249, 249, 252);
+    padding: 5px;
+    margin-top: 30px;
+    
+}
